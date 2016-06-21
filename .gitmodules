@@ -1,0 +1,12 @@
+[submodule "mendeley_python"]
+	path = mendeley_python
+	url = https://github.com/ScholarTools/mendeley_python
+[submodule "pypub"]
+	path = pypub
+	url = https://github.com/ScholarTools/pypub
+[submodule "reference_resolver"]
+	path = reference_resolver
+	url = https://github.com/ScholarTools/reference_resolver
+[submodule "scopy"]
+	path = scopy
+	url = https://github.com/ScholarTools/scopy
