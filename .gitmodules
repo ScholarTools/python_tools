@@ -7,3 +7,27 @@
 [submodule "scopy"]
 	path = scopy
 	url = https://github.com/ScholarTools/scopy
+[submodule "pydb"]
+	path = pydb
+	url = https://github.com/ScholarTools/pydb
+[submodule "shrew"]
+	path = shrew
+	url = https://github.com/ScholarTools/shrew
+[submodule "mendeley_python"]
+	path = mendeley_python
+	url = https://github.com/ScholarTools/mendeley_python
+[submodule "pubmed"]
+	path = pubmed
+	url = https://github.com/ScholarTools/pubmed
+[submodule "pdfetch"]
+	path = pdfetch
+	url = https://github.com/ScholarTools/pdfetch
+[submodule "seleniumST"]
+	path = seleniumST
+	url = https://github.com/ScholarTools/seleniumST
+[submodule "pubmed_database"]
+	path = pubmed_database
+	url = https://github.com/ScholarTools/pubmed_database
+[submodule "crossref_api_python"]
+	path = crossref_api_python
+	url = https://github.com/ScholarTools/crossref_api_python
