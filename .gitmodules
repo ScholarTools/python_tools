@@ -22,9 +22,6 @@
 [submodule "pdfetch"]
 	path = pdfetch
 	url = https://github.com/ScholarTools/pdfetch
-[submodule "seleniumST"]
-	path = seleniumST
-	url = https://github.com/ScholarTools/seleniumST
 [submodule "pubmed_database"]
 	path = pubmed_database
 	url = https://github.com/ScholarTools/pubmed_database
