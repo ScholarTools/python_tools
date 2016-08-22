@@ -1,6 +1,3 @@
-[submodule "mendeley_python"]
-	path = mendeley_python
-	url = https://github.com/ScholarTools/mendeley_python
 [submodule "pypub"]
 	path = pypub
 	url = https://github.com/ScholarTools/pypub
